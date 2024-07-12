@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "name": "Shilajit Acharjee",
+      "email": "shilajit.acharjee@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "name": "Rahul Roy",
+      "email": "rahul.roy@gmail.com",
+      "phone": "7845693210"
+    },
+    {
+      "name": "John Doe",
+      "email": "johndoe@gmail.com",
+      "phone": "478593210"
+    },
+    {
+      "name": "Rafikul Islam",
+      "email": "rafikulislam@gmail.com",
+      "phone": "1234567890"
+    }
+  ]
+}
